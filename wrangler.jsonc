@@ -1,0 +1,20 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "main": ".open-next/worker.js",
+  "name": "keta-comp",
+  "compatibility_date": "2024-12-30",
+  "compatibility_flags": ["nodejs_compat"],
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS"
+  },
+  // Optional: KV-based incremental cache.
+  // 1. Create a KV namespace in Cloudflare Dashboard → Workers & Pages → KV
+  // 2. Add the binding below, replacing <KV_NAMESPACE_ID>
+  "kv_namespaces": [
+    // {
+    //   "binding": "NEXT_INC_CACHE_KV",
+    //   "id": "<KV_NAMESPACE_ID>"
+    // }
+  ]
+}

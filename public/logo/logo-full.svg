@@ -1,0 +1,35 @@
+<svg width="360" height="90" viewBox="0 0 360 90" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="KETA.COMP">
+  <defs>
+    <linearGradient id="kg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b82f6"/>
+      <stop offset="0.6" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- MARK: stylized "K" built from an ecosystem of connected nodes -->
+  <g filter="url(#glow)">
+    <!-- vertical spine of the K -->
+    <line x1="18" y1="20" x2="18" y2="70" stroke="url(#kg)" stroke-width="5" stroke-linecap="round"/>
+    <!-- upper diagonal -->
+    <line x1="18" y1="45" x2="52" y2="18" stroke="url(#kg)" stroke-width="5" stroke-linecap="round"/>
+    <!-- lower diagonal -->
+    <line x1="18" y1="45" x2="52" y2="72" stroke="url(#kg)" stroke-width="5" stroke-linecap="round"/>
+    <!-- connecting node link (ecosystem hint) -->
+    <line x1="52" y1="18" x2="52" y2="72" stroke="#22d3ee" stroke-width="2" stroke-opacity="0.35"/>
+  </g>
+  <!-- nodes -->
+  <circle cx="18" cy="20" r="4.5" fill="#22d3ee"/>
+  <circle cx="18" cy="70" r="4.5" fill="#3b82f6"/>
+  <circle cx="52" cy="18" r="5" fill="#22d3ee"/>
+  <circle cx="52" cy="72" r="5" fill="#818cf8"/>
+  <circle cx="18" cy="45" r="3.5" fill="#ffffff"/>
+
+  <!-- WORDMARK -->
+  <text x="78" y="56" font-family="'Sora','Segoe UI',sans-serif" font-size="34" font-weight="800" letter-spacing="-1" fill="#eef1f8">KETA<tspan fill="url(#kg)">.COMP</tspan></text>
+  <text x="79" y="74" font-family="'Space Mono',monospace" font-size="9.5" letter-spacing="3" fill="#8b93a7">ENGINEERING TOMORROW</text>
+</svg>

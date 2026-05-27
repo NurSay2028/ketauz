@@ -1,0 +1,283 @@
+{
+  "nav": {
+    "services": "Xizmatlar",
+    "portfolio": "Portfolio",
+    "about": "Biz Haqimizda",
+    "team": "Jamoa",
+    "contact": "Aloqa",
+    "startProject": "Loyiha Boshlash"
+  },
+  "hero": {
+    "badge": "Kelajak Muhandislik Ekosistemi",
+    "heading1": "Biz shunchaki",
+    "heading2": "Dastur Yaratmaymiz.",
+    "heading3": "Biz Ekosistemalar Quramiz.",
+    "description": "KETA.COMP kengayadigan raqamli infratuzilmani yaratadi. Veb-platformalardan sun'iy intellekt tizimlarigacha — biz butun sohalarni belgilaydigan yechimlar yaratamiz.",
+    "cta1": "Ishlarimizni Ko'rish",
+    "cta2": "Birgalikda Quraylik",
+    "scrollDown": "Pastga aylantiring",
+    "liveProjects": "Faol Loyihalar",
+    "usersReached": "Foydalanuvchilar",
+    "uptime": "Ishonchliligi"
+  },
+  "about": {
+    "badge": "Biz Kimiz",
+    "heading": "Mumkin Emasni",
+    "headingAccent": "Muhandislik qilish",
+    "description1": "KETA.COMP — agentlik emas. Biz kelajak muhandislik jamoasimiz — tizimli fikrlash, elegant kod va o'nlab yillar davom etadigan texnologiyalarga qiziqadigan quriluvchilar guruhi.",
+    "description2": "O'zbekistonda tashkil topgan, dunyo uchun qurilgan. Yozgan har bir kod satrimiz Markaziy Osiyo va undan tashqarida yangi avlod raqamli infratuzilmasini yaratish ambitsiyasini o'z ichiga oladi.",
+    "description3": "Biz saytlar qurmayapmiz. Biz sohalarning negiziga aylanadigan raqamli ekosistemalar loyihalayapmiz.",
+    "stat1Value": "100%",
+    "stat1Label": "Maxsus Ishlab Chiqilgan",
+    "stat2Value": "0",
+    "stat2Label": "Foydalanilgan Shablonlar",
+    "stat3Value": "∞",
+    "stat3Label": "Kengayish Maqsadi",
+    "value1Title": "Tizimli Fikrlash",
+    "value1Desc": "Biz infratuzilmadan UX gacha butun stackni bitta o'zaro bog'liq tizim sifatida ko'ramiz.",
+    "value2Title": "Kelajak uchun Kod",
+    "value2Desc": "Biz bugun mavjud bo'lgan narsalar uchun emas, balki kelgusi narsa uchun quramiz.",
+    "value3Title": "Murosasiz Sifat",
+    "value3Desc": "O'rtamiyona qabul qilinmaydi. Har bir piksel, har bir so'rov, har bir API muhim."
+  },
+  "services": {
+    "badge": "Nima Quramiz",
+    "heading": "Bizning",
+    "headingAccent": "Xizmatlar",
+    "description": "Oltita asosiy yo'nalish. Bitta integratsiyalashgan jamoa. Cheksiz imkoniyatlar.",
+    "learnMore": "Batafsil",
+    "items": [
+      {
+        "title": "Veb Dasturlash",
+        "description": "Next.js, React va zamonaviy edge infratuzilmasi asosida yuqori unumdor veb-platformalar. SaaS dan e-commerce gacha.",
+        "tech": ["Next.js", "TypeScript", "PostgreSQL", "Redis"]
+      },
+      {
+        "title": "Mobil Dasturlash",
+        "description": "Flutter yordamida har bir qurilmada native his beruvchi cross-platform mobil ilovalar. Chiroyli UX, kuchli API bilan.",
+        "tech": ["Flutter", "Dart", "Firebase", "REST/GraphQL"]
+      },
+      {
+        "title": "Sun'iy Intellekt Yechimlari",
+        "description": "Maxsus AI integratsiyalari, LLM-asosidagi ilovalar, kompyuter ko'rish tizimlari va intellektual avtomatlashtirish.",
+        "tech": ["Python", "OpenAI", "LangChain", "TensorFlow"]
+      },
+      {
+        "title": "Startup Muhandislik",
+        "description": "Startaplar uchun to'liq mahsulot ishlab chiqish — noldan haftalar ichida ishga tushirish. MVPdan tortib o'sishgacha.",
+        "tech": ["Lean Stack", "CI/CD", "Microservices", "Agile"]
+      },
+      {
+        "title": "Avtomatlashtirish",
+        "description": "Takroriy ishni yo'q qiladigan biznes jarayonlarini avtomatlashtirish. Maxsus botlar, ish jarayonlarini boshqarish.",
+        "tech": ["n8n", "Python", "Puppeteer", "Kafka"]
+      },
+      {
+        "title": "Bulut Infratuzilmasi",
+        "description": "AWS va Cloudflare'da kengayib boruvchi, bardoshli infratuzilma. DevOps, CI/CD, konteynerizatsiya.",
+        "tech": ["AWS", "Cloudflare", "Docker", "Kubernetes"]
+      }
+    ]
+  },
+  "portfolio": {
+    "badge": "Bizning Ishlar",
+    "heading": "Case",
+    "headingAccent": "Studiyalar",
+    "description": "Haqiqiy muammolar. Haqiqiy yechimlar. Haqiqiy ta'sir.",
+    "viewProject": "Loyihani Ko'rish",
+    "items": [
+      {
+        "name": "TextileOps / FabriX",
+        "category": "Enterprise SaaS",
+        "description": "To'qimachilik zavodlari uchun to'liq ERP tizimi — inventarizatsiya, ishlab chiqarishni kuzatish, ta'minotchi boshqaruvi.",
+        "impact": "Samaradorlik 300% oshdi",
+        "tech": ["Next.js", "PostgreSQL", "Python", "Redis"],
+        "status": "Live"
+      },
+      {
+        "name": "Bozor-Bozor",
+        "category": "Bozor Platformasi",
+        "description": "Markaziy Osiyo mahsulotlari uchun zamonaviy raqamli bozor — real vaqtdagi e'lonlar, eskrou to'lovlar.",
+        "impact": "10K+ faol e'lonlar",
+        "tech": ["React", "Node.js", "MongoDB", "Stripe"],
+        "status": "Beta"
+      },
+      {
+        "name": "KRGo",
+        "category": "Logistika va Yetkazib Berish",
+        "description": "Real vaqtdagi logistika platformasi — marshrut optimizatsiyasi, haydovchini kuzatish, avtomatik dispetcherlashtirish.",
+        "impact": "Xarajatlar 40% kamaydi",
+        "tech": ["Flutter", "FastAPI", "PostgreSQL", "Maps API"],
+        "status": "Live"
+      },
+      {
+        "name": "OpenLearn",
+        "category": "EdTech Platforma",
+        "description": "AI bilan shaxsiylashtirilgan o'quv yo'llari, video uzatish va sertifikatlash bilan o'quv boshqaruvi tizimi.",
+        "impact": "5K+ talaba",
+        "tech": ["Next.js", "Python", "OpenAI", "FFmpeg"],
+        "status": "Live"
+      },
+      {
+        "name": "Mahalla-Rabosi",
+        "category": "Jamoa Platformasi",
+        "description": "Mahalla boshqaruvi uchun raqamli infratuzilma — shikoyatlar, e'lonlar, ovoz berish, resurslarni boshqarish.",
+        "impact": "20+ jamoa",
+        "tech": ["React Native", "Node.js", "PostgreSQL", "SMS API"],
+        "status": "Pilot"
+      },
+      {
+        "name": "AI Trading Analytics",
+        "category": "FinTech AI",
+        "description": "Kayfiyat tahlili, naqshlarni tanish va kripto bozorlari uchun avtomatlashtirilgan riskni baholash bilan ML savdo signal tizimi.",
+        "impact": "68% signal aniqligi",
+        "tech": ["Python", "TensorFlow", "FastAPI", "TimescaleDB"],
+        "status": "Private Beta"
+      }
+    ]
+  },
+  "techStack": {
+    "badge": "Bizning Arsenal",
+    "heading": "Eng Yaxshi",
+    "headingAccent": "Texnologiyalar"
+  },
+  "stats": {
+    "badge": "Raqamlarda",
+    "heading": "Ta'sir",
+    "headingAccent": "Raqamlarda",
+    "items": [
+      { "value": 10, "suffix": "+", "label": "Topshirilgan Loyihalar", "description": "Production-darajadagi tizimlar" },
+      { "value": 100, "suffix": "K+", "label": "Foydalanuvchilar Maqsadi", "description": "Maqsadli faol foydalanuvchilar" },
+      { "value": 5, "suffix": "", "label": "Tillar", "description": "UI mavjud" },
+      { "value": 3, "suffix": "+", "label": "Mamlakatlar", "description": "Ishlayotgan joylar" }
+    ]
+  },
+  "timeline": {
+    "badge": "Bizning Yo'l",
+    "heading": "Yo'l",
+    "headingAccent": "Xaritasi",
+    "items": [
+      {
+        "year": "2024",
+        "title": "Asos",
+        "description": "KETA.COMP tashkil topdi. Asosiy jamoa yig'ildi. Birinchi uchta korporativ loyiha ishga tushirildi. Markaziy Osiyo raqamli iqtisodiyoti uchun infratuzilma yaratildi."
+      },
+      {
+        "year": "2025",
+        "title": "Kengayish",
+        "description": "Barcha mahsulotlarda AI integratsiyasi. Mobil bo'lim ishga tushirildi. Birinchi mintaqaviy hamkorliklar imzolandi. Foydalanuvchilar bazasi 10K dan oshdi."
+      },
+      {
+        "year": "2026",
+        "title": "Korporativ Miqyos",
+        "description": "Enterprise SaaS to'plami. Bozor platformasini kengaytirish. Maxsus AI laboratoriyasi. Series A moliyalashtirish. Jamoa 15+ ga etadi."
+      },
+      {
+        "year": "Kelajak",
+        "title": "Global Ekosistema",
+        "description": "KETA.COMP Markaziy Osiyoning raqamli infratuzilmasining muhandislik negiziga aylanadi. 100K+ foydalanuvchi. Ko'p mamlakatli operatsiyalar."
+      }
+    ]
+  },
+  "team": {
+    "badge": "Quriluvchilar",
+    "heading": "Jamoamiz bilan",
+    "headingAccent": "Tanishing",
+    "description": "Kod tsivilizatsiyalarni o'zgartirishi mumkin deb ishonuvchi kichik, ammo kuchli muhandislar jamoasi.",
+    "members": [
+      {
+        "name": "Miyras Xalmuratov",
+        "role": "Asoschisi va CEO",
+        "bio": "G'oyachi muhandis va tizimlar arxitektori. KETA.COMPni Markaziy Osiyoning raqamli kelajagining muhandislik negiziga aylantirish uchun quryapti.",
+        "isFounder": true,
+        "socials": {
+          "github": "https://github.com/MiyrasKh",
+          "linkedin": "#",
+          "twitter": "#"
+        }
+      },
+      {
+        "name": "Muhandislik Jamoasi",
+        "role": "Full-Stack Muhandislar",
+        "bio": "Raqamli infratuzilmaning kelajagini qurayotgan g'ayratli muhandislarning o'sib borayotgan jamoasi.",
+        "isFounder": false,
+        "socials": {}
+      },
+      {
+        "name": "Dizayn va UX",
+        "role": "Mahsulot Dizaynerlari",
+        "bio": "Muqarrar his qilinadigan interfeyslari yaratish — chiroyli, funktsional va chuqur o'ylangan.",
+        "isFounder": false,
+        "socials": {}
+      }
+    ]
+  },
+  "investor": {
+    "badge": "Investorlar Uchun",
+    "heading": "O'n Yillik",
+    "headingAccent": "Imkoniyat",
+    "description": "Markaziy Osiyoning raqamli infratuzilmasi hozir qurilmoqda. KETA.COMP bu transformatsiyaning markazida joylashgan.",
+    "market": "Bozor Imkoniyati",
+    "marketDesc": "$2.3B+ Markaziy Osiyo raqamli iqtisodiyoti yiliga 34% o'smoqda",
+    "traction": "Natijalar",
+    "tractionDesc": "10+ korporativ mijoz, 100K+ foydalanuvchi maqsadi, ko'p mamlakatli mavjudligi",
+    "team2": "Jamoa",
+    "teamDesc": "Minglab odamlar foydalanadigan production tizimlarini ishga tushirgan muhandislar",
+    "vision": "Vizyon",
+    "visionDesc": "Markaziy Osiyoning raqamli uyg'onishining muhandislik negizi",
+    "cta": "Pitch Deck So'rash",
+    "ctaDesc": "Biz Seed raundini ko'tarmoqdamiz. Gaplashaylik.",
+    "stats": [
+      { "value": "$2.3B+", "label": "Bozor Hajmi" },
+      { "value": "34%", "label": "Yillik O'sish" },
+      { "value": "Seed", "label": "Joriy Raund" },
+      { "value": "2026", "label": "Series A Maqsadi" }
+    ]
+  },
+  "contact": {
+    "badge": "Bog'laning",
+    "heading": "Birgalikda",
+    "headingAccent": "Quraylik",
+    "description": "Loyihangiz bor bo'lsa, investitsiya qilmoqchi bo'lsangiz yoki shunchaki muhandislik haqida gaplashmoqchi bo'lsangiz — sizni eshitganimizdan xursand bo'lamiz.",
+    "form": {
+      "name": "Ismingiz",
+      "namePlaceholder": "Ism Familiya",
+      "email": "Email Manzil",
+      "emailPlaceholder": "hello@company.com",
+      "subject": "Mavzu",
+      "subjectPlaceholder": "Loyiha So'rovi / Hamkorlik / Investitsiya",
+      "message": "Xabar",
+      "messagePlaceholder": "Loyihangiz, vizyon yoki g'oyangiz haqida ayting...",
+      "submit": "Xabar Yuborish",
+      "sending": "Yuborilmoqda...",
+      "success": "Xabar muvaffaqiyatli yuborildi! 24 soat ichida javob beramiz.",
+      "error": "Nimadir xato ketdi. Qayta urinib ko'ring yoki to'g'ridan-to'g'ri yozing."
+    },
+    "info": {
+      "emailLabel": "Email",
+      "email": "keta.comp.dev@gmail.com",
+      "locationLabel": "Joylashuv",
+      "location": "Toshkent, O'zbekiston",
+      "responseLabel": "Javob Vaqti",
+      "response": "24 soat ichida"
+    }
+  },
+  "footer": {
+    "description": "Keyingi avlod sanoati uchun raqamli ekosistemalarni muhandislik qilish.",
+    "links": {
+      "company": "Kompaniya",
+      "about": "Biz Haqimizda",
+      "services": "Xizmatlar",
+      "portfolio": "Portfolio",
+      "team": "Jamoa",
+      "contact": "Aloqa",
+      "legal": "Huquqiy",
+      "privacy": "Maxfiylik Siyosati",
+      "terms": "Foydalanish Shartlari",
+      "social": "Ijtimoiy Tarmoqlar"
+    },
+    "founded": "Miyras Xalmuratov tomonidan asoslangan",
+    "copyright": "© 2024 KETA.COMP. Barcha huquqlar himoyalangan.",
+    "madeWith": "O'zbekistonda aniqlik bilan muhandislik qilingan"
+  }
+}

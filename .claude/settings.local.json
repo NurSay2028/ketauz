@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir /b \"C:\\\\Users\\\\2025\\\\websayt\")",
+      "Bash(npm install *)",
+      "PowerShell(Start-Sleep -Seconds 5; Invoke-WebRequest -Uri \"http://localhost:3000\" -UseBasicParsing -TimeoutSec 10 | Select-Object StatusCode, StatusDescription)",
+      "PowerShell(npm run *)",
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\2025\\\\websayt\" -Force)",
+      "Bash(Select-Object Name, FullName, PSIsContainer)",
+      "Bash(npm view *)",
+      "Bash(python -c \"import sys,json; v=json.load\\(sys.stdin\\); print\\('\\\\n'.join\\(v[-20:]\\)\\)\")",
+      "Bash(node_modules/.bin/opennextjs-cloudflare --help)"
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "nav": {
+    "services": "服务",
+    "portfolio": "案例",
+    "about": "关于我们",
+    "team": "团队",
+    "contact": "联系我们",
+    "startProject": "开始项目"
+  },
+  "hero": {
+    "badge": "未来工程生态系统",
+    "heading1": "我们不只是",
+    "heading2": "构建软件。",
+    "heading3": "我们构建生态系统。",
+    "description": "KETA.COMP 打造可扩展的数字基础设施。从网络平台到人工智能系统——我们工程化的解决方案能够定义整个行业。",
+    "cta1": "探索我们的作品",
+    "cta2": "一起构建",
+    "scrollDown": "滚动探索",
+    "liveProjects": "活跃项目",
+    "usersReached": "目标用户",
+    "uptime": "正常运行时间"
+  },
+  "about": {
+    "badge": "我们是谁",
+    "heading": "工程化",
+    "headingAccent": "不可能",
+    "description1": "KETA.COMP 不是一家代理机构。我们是未来工程集体——一个紧密团结的构建者团队，痴迷于系统思维、优雅代码和持续数十年的技术。",
+    "description2": "在乌兹别克斯坦创立，为世界而生。我们写的每一行代码都承载着为中亚及更远地区创建下一代数字基础设施的雄心。",
+    "description3": "我们不构建网站。我们设计成为行业骨干的数字生态系统。",
+    "stat1Value": "100%",
+    "stat1Label": "定制工程",
+    "stat2Value": "0",
+    "stat2Label": "使用的模板",
+    "stat3Value": "∞",
+    "stat3Label": "可扩展性目标",
+    "value1Title": "系统思维",
+    "value1Desc": "我们将整个技术栈——从基础设施到用户体验——视为一个相互关联的系统。",
+    "value2Title": "面向未来的代码",
+    "value2Desc": "我们为接下来的事物而构建，而不仅仅是今天存在的事物。",
+    "value3Title": "不妥协的质量",
+    "value3Desc": "平庸不是选项。每一个像素、每一个查询、每一个 API 都很重要。"
+  },
+  "services": {
+    "badge": "我们构建什么",
+    "heading": "我们的",
+    "headingAccent": "服务",
+    "description": "六大核心领域。一个集成团队。无限可能。",
+    "learnMore": "了解更多",
+    "items": [
+      {
+        "title": "网络开发",
+        "description": "使用 Next.js、React 和现代边缘基础设施构建的高性能网络平台。从 SaaS 仪表板到电子商务系统。",
+        "tech": ["Next.js", "TypeScript", "PostgreSQL", "Redis"]
+      },
+      {
+        "title": "移动开发",
+        "description": "使用 Flutter 构建的跨平台移动应用程序，在每台设备上都能感受到原生体验。",
+        "tech": ["Flutter", "Dart", "Firebase", "REST/GraphQL"]
+      },
+      {
+        "title": "人工智能解决方案",
+        "description": "自定义 AI 集成、LLM 驱动的应用程序、计算机视觉系统和智能自动化管道。",
+        "tech": ["Python", "OpenAI", "LangChain", "TensorFlow"]
+      },
+      {
+        "title": "创业工程",
+        "description": "为初创公司提供端到端的产品开发——从零开始，几周内上线。从 MVP 到规模化，毫无赘余。",
+        "tech": ["Lean Stack", "CI/CD", "Microservices", "Agile"]
+      },
+      {
+        "title": "自动化",
+        "description": "消除重复性工作的业务流程自动化。自定义机器人、工作流程编排和数据管道。",
+        "tech": ["n8n", "Python", "Puppeteer", "Kafka"]
+      },
+      {
+        "title": "云基础设施",
+        "description": "在 AWS 和 Cloudflare 上构建可扩展、弹性的基础设施。DevOps、CI/CD、容器化和可观察性。",
+        "tech": ["AWS", "Cloudflare", "Docker", "Kubernetes"]
+      }
+    ]
+  },
+  "portfolio": {
+    "badge": "我们的作品",
+    "heading": "案例",
+    "headingAccent": "研究",
+    "description": "真实问题。真实解决方案。真实影响。",
+    "viewProject": "查看项目",
+    "items": [
+      {
+        "name": "TextileOps / FabriX",
+        "category": "企业 SaaS",
+        "description": "纺织工厂的全栈 ERP 系统——库存管理、生产跟踪、供应商管理和分析，整合在一个统一平台中。",
+        "impact": "效率提升 300%",
+        "tech": ["Next.js", "PostgreSQL", "Python", "Redis"],
+        "status": "Live"
+      },
+      {
+        "name": "Bozor-Bozor",
+        "category": "市场平台",
+        "description": "中亚产品的现代数字市场——实时列表、托管支付和卖家分析。",
+        "impact": "10K+ 活跃列表",
+        "tech": ["React", "Node.js", "MongoDB", "Stripe"],
+        "status": "Beta"
+      },
+      {
+        "name": "KRGo",
+        "category": "物流与配送",
+        "description": "实时物流平台，具有路线优化、司机跟踪和自动调度功能。",
+        "impact": "成本降低 40%",
+        "tech": ["Flutter", "FastAPI", "PostgreSQL", "Maps API"],
+        "status": "Live"
+      },
+      {
+        "name": "OpenLearn",
+        "category": "教育科技平台",
+        "description": "开源学习管理系统，具有 AI 驱动的个性化学习路径、视频流和认证。",
+        "impact": "5K+ 注册学生",
+        "tech": ["Next.js", "Python", "OpenAI", "FFmpeg"],
+        "status": "Live"
+      },
+      {
+        "name": "Mahalla-Rabosi",
+        "category": "社区平台",
+        "description": "马哈拉（社区）治理的数字基础设施——投诉、公告、投票和资源管理。",
+        "impact": "20+ 社区",
+        "tech": ["React Native", "Node.js", "PostgreSQL", "SMS API"],
+        "status": "Pilot"
+      },
+      {
+        "name": "AI Trading Analytics",
+        "category": "金融科技 AI",
+        "description": "ML 驱动的交易信号系统，具有情感分析、模式识别和加密市场自动化风险评估。",
+        "impact": "信号准确率 68%",
+        "tech": ["Python", "TensorFlow", "FastAPI", "TimescaleDB"],
+        "status": "Private Beta"
+      }
+    ]
+  },
+  "techStack": {
+    "badge": "我们的武器库",
+    "heading": "以最好的",
+    "headingAccent": "技术构建"
+  },
+  "stats": {
+    "badge": "用数字说话",
+    "heading": "数字中的",
+    "headingAccent": "影响力",
+    "items": [
+      { "value": 10, "suffix": "+", "label": "交付的项目", "description": "生产级系统" },
+      { "value": 100, "suffix": "K+", "label": "用户愿景", "description": "目标活跃用户" },
+      { "value": 5, "suffix": "", "label": "语言", "description": "界面可用语言" },
+      { "value": 3, "suffix": "+", "label": "国家", "description": "我们的运营地区" }
+    ]
+  },
+  "timeline": {
+    "badge": "我们的旅程",
+    "heading": "发展",
+    "headingAccent": "路线图",
+    "items": [
+      {
+        "year": "2024",
+        "title": "创立",
+        "description": "KETA.COMP 成立。核心团队组建完成。前三个企业项目上线。为中亚数字经济建立基础设施。"
+      },
+      {
+        "year": "2025",
+        "title": "扩张",
+        "description": "所有产品集成 AI。移动部门上线。签署首批区域合作伙伴关系。用户基础突破 10K。"
+      },
+      {
+        "year": "2026",
+        "title": "企业规模",
+        "description": "企业 SaaS 套件。市场平台扩张。专用 AI 实验室。A 轮融资。团队扩展到 15+ 人。"
+      },
+      {
+        "year": "未来",
+        "title": "全球生态系统",
+        "description": "KETA.COMP 成为中亚数字基础设施的工程骨干。100K+ 用户。多国运营。IPO 展望。"
+      }
+    ]
+  },
+  "team": {
+    "badge": "构建者们",
+    "heading": "认识",
+    "headingAccent": "团队",
+    "description": "一个小而强大的工程师团队，相信代码可以改变文明。",
+    "members": [
+      {
+        "name": "Miyras Xalmuratov",
+        "role": "创始人兼首席执行官",
+        "bio": "有远见的工程师和系统架构师。正在打造 KETA.COMP，使其成为中亚数字未来的工程骨干。",
+        "isFounder": true,
+        "socials": {
+          "github": "https://github.com/MiyrasKh",
+          "linkedin": "#",
+          "twitter": "#"
+        }
+      },
+      {
+        "name": "工程团队",
+        "role": "全栈工程师",
+        "bio": "正在构建数字基础设施未来的充满激情的工程师不断壮大的团队。",
+        "isFounder": false,
+        "socials": {}
+      },
+      {
+        "name": "设计与用户体验",
+        "role": "产品设计师",
+        "bio": "打造感觉必然的界面——美丽、功能性且深思熟虑。",
+        "isFounder": false,
+        "socials": {}
+      }
+    ]
+  },
+  "investor": {
+    "badge": "致投资者",
+    "heading": "十年一遇的",
+    "headingAccent": "机会",
+    "description": "中亚的数字基础设施正在建设中。KETA.COMP 处于这一变革的中心。",
+    "market": "市场机会",
+    "marketDesc": "中亚 23 亿美元以上的数字经济以每年 34% 的速度增长",
+    "traction": "市场牵引力",
+    "tractionDesc": "10+ 企业客户，100K+ 用户愿景，多国存在",
+    "team2": "团队",
+    "teamDesc": "已交付被数千人使用的生产系统的工程师",
+    "vision": "愿景",
+    "visionDesc": "中亚数字复兴的工程骨干",
+    "cta": "请求投资简报",
+    "ctaDesc": "我们正在进行种子轮融资。让我们谈谈。",
+    "stats": [
+      { "value": "$2.3B+", "label": "市场规模" },
+      { "value": "34%", "label": "年增长率" },
+      { "value": "Seed", "label": "当前轮次" },
+      { "value": "2026", "label": "A 轮目标" }
+    ]
+  },
+  "contact": {
+    "badge": "联系我们",
+    "heading": "让我们一起",
+    "headingAccent": "构建",
+    "description": "无论您有项目想法、想投资，还是只想谈论工程——我们很乐意听到您的声音。",
+    "form": {
+      "name": "您的姓名",
+      "namePlaceholder": "张伟",
+      "email": "电子邮件地址",
+      "emailPlaceholder": "hello@company.com",
+      "subject": "主题",
+      "subjectPlaceholder": "项目咨询 / 合作 / 投资",
+      "message": "留言",
+      "messagePlaceholder": "告诉我们您的项目、愿景或想法...",
+      "submit": "发送消息",
+      "sending": "发送中...",
+      "success": "消息发送成功！我们将在 24 小时内回复您。",
+      "error": "出了点问题。请重试或直接发送电子邮件给我们。"
+    },
+    "info": {
+      "emailLabel": "电子邮件",
+      "email": "keta.comp.dev@gmail.com",
+      "locationLabel": "位置",
+      "location": "塔什干，乌兹别克斯坦",
+      "responseLabel": "响应时间",
+      "response": "24 小时内"
+    }
+  },
+  "footer": {
+    "description": "为下一代行业工程化数字生态系统。",
+    "links": {
+      "company": "公司",
+      "about": "关于我们",
+      "services": "服务",
+      "portfolio": "案例",
+      "team": "团队",
+      "contact": "联系我们",
+      "legal": "法律",
+      "privacy": "隐私政策",
+      "terms": "服务条款",
+      "social": "社交媒体"
+    },
+    "founded": "由 Miyras Xalmuratov 创立",
+    "copyright": "© 2024 KETA.COMP。保留所有权利。",
+    "madeWith": "在乌兹别克斯坦精心工程化"
+  }
+}

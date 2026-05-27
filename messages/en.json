@@ -1,0 +1,283 @@
+{
+  "nav": {
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "team": "Team",
+    "contact": "Contact",
+    "startProject": "Start Project"
+  },
+  "hero": {
+    "badge": "Future Engineering Ecosystem",
+    "heading1": "We Don't Just",
+    "heading2": "Build Software.",
+    "heading3": "We Build Ecosystems.",
+    "description": "KETA.COMP crafts digital infrastructure that scales. From web platforms to AI systems — we engineer solutions that define entire industries.",
+    "cta1": "Explore Our Work",
+    "cta2": "Let's Build Together",
+    "scrollDown": "Scroll to discover",
+    "liveProjects": "Live Projects",
+    "usersReached": "Users Reached",
+    "uptime": "Uptime"
+  },
+  "about": {
+    "badge": "Who We Are",
+    "heading": "Engineering the",
+    "headingAccent": "Impossible",
+    "description1": "KETA.COMP is not an agency. We are a future engineering collective — a tight-knit team of builders who obsess over systems thinking, elegant code, and technologies that last decades, not quarters.",
+    "description2": "Founded in Uzbekistan, built for the world. Every line of code we write carries the ambition of creating the next generation of digital infrastructure across Central Asia and beyond.",
+    "description3": "We don't build websites. We architect digital ecosystems that become the backbone of industries.",
+    "stat1Value": "100%",
+    "stat1Label": "Custom Engineered",
+    "stat2Value": "0",
+    "stat2Label": "Templates Used",
+    "stat3Value": "∞",
+    "stat3Label": "Scalability Target",
+    "value1Title": "Systems Thinking",
+    "value1Desc": "We see the full stack — from infrastructure to UX — as one interconnected system.",
+    "value2Title": "Future-Proof Code",
+    "value2Desc": "We build for what comes next, not just what exists today.",
+    "value3Title": "Relentless Quality",
+    "value3Desc": "Mediocrity is not an option. Every pixel, every query, every API matters."
+  },
+  "services": {
+    "badge": "What We Build",
+    "heading": "Our",
+    "headingAccent": "Services",
+    "description": "Six core disciplines. One integrated team. Infinite possibilities.",
+    "learnMore": "Learn more",
+    "items": [
+      {
+        "title": "Web Development",
+        "description": "High-performance web platforms built with Next.js, React, and modern edge infrastructure. From SaaS dashboards to e-commerce systems.",
+        "tech": ["Next.js", "TypeScript", "PostgreSQL", "Redis"]
+      },
+      {
+        "title": "Mobile Development",
+        "description": "Cross-platform mobile applications with Flutter that feel native on every device. Beautiful UX backed by robust APIs.",
+        "tech": ["Flutter", "Dart", "Firebase", "REST/GraphQL"]
+      },
+      {
+        "title": "AI Solutions",
+        "description": "Custom AI integrations, LLM-powered applications, computer vision systems, and intelligent automation pipelines.",
+        "tech": ["Python", "OpenAI", "LangChain", "TensorFlow"]
+      },
+      {
+        "title": "Startup Engineering",
+        "description": "End-to-end product development for startups — from zero to launch in weeks. MVP to scale without the bloat.",
+        "tech": ["Lean Stack", "CI/CD", "Microservices", "Agile"]
+      },
+      {
+        "title": "Automation",
+        "description": "Business process automation that eliminates repetitive work. Custom bots, workflow orchestration, and data pipelines.",
+        "tech": ["n8n", "Python", "Puppeteer", "Kafka"]
+      },
+      {
+        "title": "Cloud Infrastructure",
+        "description": "Scalable, resilient infrastructure on AWS and Cloudflare. DevOps, CI/CD, containerization, and observability.",
+        "tech": ["AWS", "Cloudflare", "Docker", "Kubernetes"]
+      }
+    ]
+  },
+  "portfolio": {
+    "badge": "Our Work",
+    "heading": "Case",
+    "headingAccent": "Studies",
+    "description": "Real problems. Real solutions. Real impact.",
+    "viewProject": "View Project",
+    "items": [
+      {
+        "name": "TextileOps / FabriX",
+        "category": "Enterprise SaaS",
+        "description": "Full-stack ERP system for textile factories — inventory, production tracking, supplier management, and analytics in one unified platform.",
+        "impact": "300% efficiency increase",
+        "tech": ["Next.js", "PostgreSQL", "Python", "Redis"],
+        "status": "Live"
+      },
+      {
+        "name": "Bozor-Bozor",
+        "category": "Marketplace Platform",
+        "description": "Modern digital marketplace for Central Asian products — real-time listings, escrow payments, and vendor analytics.",
+        "impact": "10K+ active listings",
+        "tech": ["React", "Node.js", "MongoDB", "Stripe"],
+        "status": "Beta"
+      },
+      {
+        "name": "KRGo",
+        "category": "Logistics & Delivery",
+        "description": "Real-time logistics platform with route optimization, driver tracking, and automated dispatch for regional delivery companies.",
+        "impact": "40% cost reduction",
+        "tech": ["Flutter", "FastAPI", "PostgreSQL", "Maps API"],
+        "status": "Live"
+      },
+      {
+        "name": "OpenLearn",
+        "category": "EdTech Platform",
+        "description": "Open-source learning management system with AI-powered personalized learning paths, video streaming, and certification.",
+        "impact": "5K+ enrolled students",
+        "tech": ["Next.js", "Python", "OpenAI", "FFmpeg"],
+        "status": "Live"
+      },
+      {
+        "name": "Mahalla-Rabosi",
+        "category": "Community Platform",
+        "description": "Digital infrastructure for mahalla (neighborhood) governance — complaints, announcements, voting, and resource management.",
+        "impact": "20+ communities",
+        "tech": ["React Native", "Node.js", "PostgreSQL", "SMS API"],
+        "status": "Pilot"
+      },
+      {
+        "name": "AI Trading Analytics",
+        "category": "FinTech AI",
+        "description": "ML-powered trading signal system with sentiment analysis, pattern recognition, and automated risk assessment for crypto markets.",
+        "impact": "68% signal accuracy",
+        "tech": ["Python", "TensorFlow", "FastAPI", "TimescaleDB"],
+        "status": "Private Beta"
+      }
+    ]
+  },
+  "techStack": {
+    "badge": "Our Arsenal",
+    "heading": "Built With",
+    "headingAccent": "The Best"
+  },
+  "stats": {
+    "badge": "By The Numbers",
+    "heading": "Impact in",
+    "headingAccent": "Numbers",
+    "items": [
+      { "value": 10, "suffix": "+", "label": "Projects Delivered", "description": "Production-grade systems" },
+      { "value": 100, "suffix": "K+", "label": "Users Vision", "description": "Target active users" },
+      { "value": 5, "suffix": "", "label": "Languages", "description": "UI available in" },
+      { "value": 3, "suffix": "+", "label": "Countries", "description": "Where we operate" }
+    ]
+  },
+  "timeline": {
+    "badge": "Our Journey",
+    "heading": "The",
+    "headingAccent": "Roadmap",
+    "items": [
+      {
+        "year": "2024",
+        "title": "Foundation",
+        "description": "KETA.COMP founded. Core team assembled. First three enterprise projects launched. Infrastructure for Central Asian digital economy established."
+      },
+      {
+        "year": "2025",
+        "title": "Expansion",
+        "description": "AI integration across all products. Mobile division launched. First regional partnerships signed. User base crosses 10K."
+      },
+      {
+        "year": "2026",
+        "title": "Enterprise Scale",
+        "description": "Enterprise SaaS suite. Marketplace platform expansion. Dedicated AI lab. Series A fundraising. Team grows to 15+."
+      },
+      {
+        "year": "Future",
+        "title": "Global Ecosystem",
+        "description": "KETA.COMP becomes the engineering backbone of Central Asian digital infrastructure. 100K+ users. Multi-country operations. IPO horizon."
+      }
+    ]
+  },
+  "team": {
+    "badge": "The Builders",
+    "heading": "Meet the",
+    "headingAccent": "Team",
+    "description": "A small but formidable team of engineers who believe code can change civilizations.",
+    "members": [
+      {
+        "name": "Miyras Xalmuratov",
+        "role": "Founder & CEO",
+        "bio": "Visionary engineer and systems architect. Building KETA.COMP to become the engineering backbone of Central Asia's digital future.",
+        "isFounder": true,
+        "socials": {
+          "github": "https://github.com/MiyrasKh",
+          "linkedin": "#",
+          "twitter": "#"
+        }
+      },
+      {
+        "name": "Engineering Team",
+        "role": "Full-Stack Engineers",
+        "bio": "A growing team of passionate engineers building the future of digital infrastructure.",
+        "isFounder": false,
+        "socials": {}
+      },
+      {
+        "name": "Design & UX",
+        "role": "Product Designers",
+        "bio": "Crafting interfaces that feel inevitable — beautiful, functional, and deeply considered.",
+        "isFounder": false,
+        "socials": {}
+      }
+    ]
+  },
+  "investor": {
+    "badge": "For Investors",
+    "heading": "A Once-in-a-Decade",
+    "headingAccent": "Opportunity",
+    "description": "Central Asia's digital infrastructure is being built right now. KETA.COMP is positioned at the center of this transformation.",
+    "market": "Market Opportunity",
+    "marketDesc": "$2.3B+ Central Asian digital economy growing 34% YoY",
+    "traction": "Traction",
+    "tractionDesc": "10+ enterprise clients, 100K+ user vision, multi-country presence",
+    "team2": "Team",
+    "teamDesc": "Engineers who've shipped production systems used by thousands",
+    "vision": "Vision",
+    "visionDesc": "The engineering backbone for Central Asia's digital renaissance",
+    "cta": "Request Pitch Deck",
+    "ctaDesc": "We're raising our Seed round. Let's talk.",
+    "stats": [
+      { "value": "$2.3B+", "label": "Market Size" },
+      { "value": "34%", "label": "YoY Growth" },
+      { "value": "Seed", "label": "Current Round" },
+      { "value": "2026", "label": "Series A Target" }
+    ]
+  },
+  "contact": {
+    "badge": "Get In Touch",
+    "heading": "Let's Build",
+    "headingAccent": "Together",
+    "description": "Whether you have a project in mind, want to invest, or just want to talk engineering — we'd love to hear from you.",
+    "form": {
+      "name": "Your Name",
+      "namePlaceholder": "Miyras Xalmuratov",
+      "email": "Email Address",
+      "emailPlaceholder": "hello@company.com",
+      "subject": "Subject",
+      "subjectPlaceholder": "Project Inquiry / Partnership / Investment",
+      "message": "Message",
+      "messagePlaceholder": "Tell us about your project, vision, or idea...",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully! We'll get back to you within 24 hours.",
+      "error": "Something went wrong. Please try again or email us directly."
+    },
+    "info": {
+      "emailLabel": "Email",
+      "email": "keta.comp.dev@gmail.com",
+      "locationLabel": "Location",
+      "location": "Tashkent, Uzbekistan",
+      "responseLabel": "Response Time",
+      "response": "Within 24 hours"
+    }
+  },
+  "footer": {
+    "description": "Engineering digital ecosystems for the next generation of industry.",
+    "links": {
+      "company": "Company",
+      "about": "About",
+      "services": "Services",
+      "portfolio": "Portfolio",
+      "team": "Team",
+      "contact": "Contact",
+      "legal": "Legal",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "social": "Social"
+    },
+    "founded": "Founded by Miyras Xalmuratov",
+    "copyright": "© 2024 KETA.COMP. All rights reserved.",
+    "madeWith": "Engineered with precision in Uzbekistan"
+  }
+}

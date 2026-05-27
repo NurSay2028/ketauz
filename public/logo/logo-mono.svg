@@ -1,0 +1,13 @@
+<svg width="360" height="90" viewBox="0 0 360 90" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="KETA.COMP">
+  <g stroke-linecap="round">
+    <line x1="18" y1="20" x2="18" y2="70" stroke="#ffffff" stroke-width="5"/>
+    <line x1="18" y1="45" x2="52" y2="18" stroke="#ffffff" stroke-width="5"/>
+    <line x1="18" y1="45" x2="52" y2="72" stroke="#ffffff" stroke-width="5"/>
+  </g>
+  <circle cx="18" cy="20" r="4.5" fill="#ffffff"/>
+  <circle cx="18" cy="70" r="4.5" fill="#ffffff"/>
+  <circle cx="52" cy="18" r="5" fill="#ffffff"/>
+  <circle cx="52" cy="72" r="5" fill="#ffffff"/>
+  <circle cx="18" cy="45" r="3.5" fill="#05060a"/>
+  <text x="78" y="58" font-family="'Sora','Segoe UI',sans-serif" font-size="34" font-weight="800" letter-spacing="-1" fill="#ffffff">KETA.COMP</text>
+</svg>
